@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RecipeSearch/static/css/main.9ab0b879.css",
+    "main.js": "/RecipeSearch/static/js/main.c556801f.js",
+    "index.html": "/RecipeSearch/index.html",
+    "main.9ab0b879.css.map": "/RecipeSearch/static/css/main.9ab0b879.css.map",
+    "main.c556801f.js.map": "/RecipeSearch/static/js/main.c556801f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ab0b879.css",
+    "static/js/main.c556801f.js"
+  ]
+}
