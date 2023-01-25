@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/RecipeSearch/static/css/main.9ab0b879.css",
-    "main.js": "/RecipeSearch/static/js/main.895d1b2a.js",
-    "index.html": "/RecipeSearch/index.html",
-    "main.9ab0b879.css.map": "/RecipeSearch/static/css/main.9ab0b879.css.map",
-    "main.895d1b2a.js.map": "/RecipeSearch/static/js/main.895d1b2a.js.map"
+    "main.css": "/RecipeSearchProduction/static/css/main.9ab0b879.css",
+    "main.js": "/RecipeSearchProduction/static/js/main.895d1b2a.js",
+    "index.html": "/RecipeSearchProduction/index.html",
+    "main.9ab0b879.css.map": "/RecipeSearchProduction/static/css/main.9ab0b879.css.map",
+    "main.895d1b2a.js.map": "/RecipeSearchProduction/static/js/main.895d1b2a.js.map"
   },
   "entrypoints": [
     "static/css/main.9ab0b879.css",
